@@ -1,0 +1,5 @@
+<meta>
+	<info name="Server" description="My New Project Server" />
+
+	<script src="Debug\netcoreapp3.1\Server.dll" />
+</meta>
